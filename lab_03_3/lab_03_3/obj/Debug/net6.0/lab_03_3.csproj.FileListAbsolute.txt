@@ -1,0 +1,15 @@
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\lab_03_3.csproj.AssemblyReference.cache
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\lab_03_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\lab_03_3.AssemblyInfoInputs.cache
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\lab_03_3.AssemblyInfo.cs
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\lab_03_3.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\bin\Debug\net6.0\lab_03_3.exe
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\bin\Debug\net6.0\lab_03_3.deps.json
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\bin\Debug\net6.0\lab_03_3.runtimeconfig.json
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\bin\Debug\net6.0\lab_03_3.dll
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\bin\Debug\net6.0\lab_03_3.pdb
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\lab_03_3.dll
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\refint\lab_03_3.dll
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\lab_03_3.pdb
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\lab_03_3.genruntimeconfig.cache
+C:\Users\Sanya\source\repos\lab_03_3\lab_03_3\obj\Debug\net6.0\ref\lab_03_3.dll
